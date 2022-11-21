@@ -1,0 +1,63 @@
+main img {
+    border-radius: 15px 15px 0px 0px;
+    height: 317px;
+    width: 317px;
+    object-fit: cover;
+  }
+  
+  main h1 {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+    margin: 21px 0px 0px 0px;
+  }
+  
+  main h3 {
+    font-weight: 400;
+    font-size: 13px;
+    color: #F3BF99;
+    line-height: 15px;
+    text-align: center;
+    margin: 5px;
+  }
+  
+  main .contacts {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .contacts button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:8px;
+    padding: 9px 13px 9px 11px;
+    margin: 15px 20px;
+    border-radius: 6px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    
+    width: 115px;
+    height: 34px;
+  
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  
+  .contacts button img {
+    width: 16px;
+    height: 16px;
+  }
+  
+  .contacts .email {
+    background-color: white;
+    color: #374151;  
+    border: 1px solid #D1D5DB;
+  }
+  
+  .contacts .linkedin {
+    background: #5093E2;
+    border: 0;
+  }

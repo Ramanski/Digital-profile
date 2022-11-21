@@ -1,0 +1,16 @@
+body {
+  background: #23252C;
+  padding: 3em 5em;
+}
+
+:root {
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #161619;
+  padding:1em 5em;
+
+  display: flex;
+  justify-content: center;
+}
