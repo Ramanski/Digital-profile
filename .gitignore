@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Sensitive info
-src/assets/myrealphoto.png
+public/myrealphoto.png
